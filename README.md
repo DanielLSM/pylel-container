@@ -5,6 +5,8 @@ The main objective of this repository is to remove the burden of having to write
 
 In a macro level, the framework should enable to wrapp a python container as a class and use it (as it was local) across remote servers with proper logging for debugging purposes.
 
+Classes passed should have to be pickle-able...
+
 # Key features
 
 The main points are as follows:
